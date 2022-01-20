@@ -1,4 +1,3 @@
-# Thunderware-SRC
 <h1>Thunderware "Reborn" SRC :)</h1>
 
 <strong>(THIS ONLY INCLUDES MY CODE)</strong>
