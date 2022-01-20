@@ -9,11 +9,11 @@ Everything here is my code (except from settings)
 > Retarded owner<br>
 > Owner used MintyCodes Tutorial In past
 
-<strong>Proof The Owner Skidded Old Version (Before I Was There)</strong>
-<img src="https://media.discordapp.net/attachments/933778472696946690/933789507692675102/unknown.png"></img>
-<img src="https://media.discordapp.net/attachments/933778472696946690/933789036848488448/unknown.png?width=721&height=318"></img>
-<img src="https://cdn.upload.systems/uploads/bb4DYv67.png"></img>
-<img src="https://cdn.discordapp.com/attachments/933778472696946690/933794138409803906/unknown.png"></img>
+<strong>Proof The Owner Skidded Old Version (Before I Was There)</strong><br><br>
+<img src="https://media.discordapp.net/attachments/933778472696946690/933789507692675102/unknown.png"></img><br>
+<img src="https://media.discordapp.net/attachments/933778472696946690/933789036848488448/unknown.png?width=721&height=318"></img><br>
+<img src="https://cdn.upload.systems/uploads/bb4DYv67.png"></img><br>
+<img src="https://cdn.discordapp.com/attachments/933778472696946690/933794138409803906/unknown.png"></img><br>
 
 I am allowed to leak this, as it is literally mostly all my code...
 
