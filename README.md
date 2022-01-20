@@ -25,15 +25,17 @@ What the client looks like:<br>
 <img src="https://cdn.discordapp.com/attachments/933180528516018206/933805833144369232/unknown.png"></img>
 
 <strong>Includes</strong>
-> ClickGUI
-> Killaura + AntiBot
-> ChestStealer
-> Compass (forgot the name)
-> Animations
-> HUD
-> BlocksMC Damage Fly
-> Vanilla (0.36 Speed BlocksMC) Speed
-> Sprint
+> ClickGUI<br>
+> Killaura + AntiBot<br>
+> ChestStealer<br>
+> Compass (forgot the name)<br>
+> Animations<br>
+> HUD<br>
+> BlocksMC Damage Fly<br>
+> Vanilla (0.36 Speed BlocksMC) Speed<br>
+> Sprint<br>
+
+(PS: DOESN'T INCLUDE DISABLER)
 
 I am allowed to leak this, as it is literally mostly all my code...
 
