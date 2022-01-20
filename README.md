@@ -7,7 +7,8 @@ Everything here is my code (except from settings)
 
 <strong>Why Did I Leak It?</strong><br>
 > Retarded owner<br>
-> Owner used MintyCodes Tutorial In past
+> Owner used MintyCodes tutorial in past<br>
+> I can't stand retard liers like this.<br>
 
 <strong>Proof The Owner Skidded Old Version (Before I Was There)</strong><br><br>
 <img src="https://media.discordapp.net/attachments/933778472696946690/933789507692675102/unknown.png"></img><br>
