@@ -8,7 +8,7 @@ Everything here is my code (except from settings)
 
 <strong>Why Did I Leak It?</strong><br>
 > Retarded owner<br>
-> Owner followed a fucking mintycodes tut for his old client versions
+> Owner used MintyCodes Tutorial In past
 
 I am allowed to leak this, as it is litterally mostly all my code...
 
